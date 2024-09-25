@@ -1,0 +1,27 @@
+/* ListComponent.css */
+
+.list-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  h2 {
+    color: #50858a;
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    list-style-type: none;  
+    padding: 0;
+  }
+  
+  li {
+    background-color: #f0f2f5;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #007BFF;
+    border-radius: 5px;
+    font-size: 1.2rem;
+  }
+  
